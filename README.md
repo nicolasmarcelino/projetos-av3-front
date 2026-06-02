@@ -1,0 +1,1 @@
+Versão web do sistema de carrinho de compras, originalmente concebido em Java
